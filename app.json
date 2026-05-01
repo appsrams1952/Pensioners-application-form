@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Day to Day Routines",
+    "slug": "day-to-day-routines",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
